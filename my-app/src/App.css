@@ -1,0 +1,16 @@
+ 
+form{
+    position: absolute;
+    top:20vh;
+    left: 75vh;
+    box-shadow:  0 0 8px 1px #989898;
+    padding: 50px;
+}
+
+input{
+   margin-top: 5px;
+   margin-bottom: 5px;
+   border-radius: 5px;
+   height: 25px;
+   padding-left:10px ;
+}
